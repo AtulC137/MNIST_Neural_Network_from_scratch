@@ -26,7 +26,7 @@ This project contains three machine learning models built using TensorFlow and e
 
 ```bash
 ```
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/AtulC137/MNIST_Neural_Network_from_scratch.git
 cd your-repo-name
 ### 2️⃣ Run Setup Script (Windows)
 Use the pre-built batch file to automatically set up everything:
