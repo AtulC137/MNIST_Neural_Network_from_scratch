@@ -25,6 +25,7 @@ This project contains three machine learning models built using TensorFlow and e
 ### 1️⃣ Clone the Repository
 
 ```bash
+https://github.com/AtulC137/MNIST_Neural_Network_from_scratch.git
 ```
 https://github.com/AtulC137/MNIST_Neural_Network_from_scratch.git
 cd your-repo-name
